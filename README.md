@@ -8,7 +8,7 @@ Installation
 
 2. Copy init.sh to /etc/init.d:
 
-   cp int.sh /etc/init.d/wittypi (note rename!!)
+   cp init.sh /etc/init.d/wittypi (note rename!!)
    systemctl enable wittypi
 
 Wittypi board should be connected and functioning when system is rebooted.
