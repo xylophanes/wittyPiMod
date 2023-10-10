@@ -11,5 +11,4 @@ Installation
    cp int.sh /etc/init.d/wittypi (note rename!!)
    systemctl enable wittypi
 
-Wittypi board should be up and functioning on reboot
-
+Wittypi board should be connected and functioning when system is rebooted.
