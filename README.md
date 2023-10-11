@@ -1,8 +1,6 @@
-WittyPiMod
-==========
+## WittyPiMod
 
-Installation
-------------
+##### Installation
 
 1. copy contents of this directory to /opt/wittyPi:
 
